@@ -1,0 +1,13 @@
+https://abraxabra.ru/blog/vue-js/create-stunning-charts-vue-js-and-chart-js/
+
+1) Install vue-cli:  npm install -g vue-cli
+
+2) vue init webpack awesome-charts
+
+3) cd awesome-charts
+
+4) npm i  (or yarn install)
+
+5) yarn add vue-chartjs -S
+
+6) Start - yarn run dev
